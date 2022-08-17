@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NimaEsr
-- 👀 I’m a PhD student at the university of Toronto
+- 👀 I’m a graduate research assitant at the university of Toronto
 - 📫 You can reach me at nima.eshraghi@mail.utoronto.ca 
 
 <!---
