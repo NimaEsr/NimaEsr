@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NimaEsr
-- 👀 I’m a graduate research assitant at the university of Toronto
+- 👀 I’m a Senior Machine Learning Scientist at Walmart Global Tech
 - 📫 You can reach me at nima.esr@gmail.com 
 
 <!---
